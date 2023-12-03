@@ -1,4 +1,4 @@
-# GeekTrust_Admin_Ui
+# Admin UI Dashboard
 
 ## Features
 1. Column titles must stand out from the entries.
