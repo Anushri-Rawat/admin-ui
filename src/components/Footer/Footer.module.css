@@ -1,0 +1,31 @@
+.footerContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1rem 0 2rem;
+}
+.left {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  width: 100%;
+}
+p {
+  color: #777;
+  cursor: pointer;
+}
+.deleteBtn {
+  width: 150px;
+  height: 35px;
+  background-color: #e74c3c;
+  color: #fff;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+}
+
+.deleteBtn:disabled {
+  border: 1px solid #7f8fa6;
+  color: #7f8fa6;
+  background-color: #dcdde1;
+}

@@ -1,0 +1,15 @@
+.icons {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.red {
+  color: rgb(228, 83, 114);
+}
+.green {
+  color: green;
+}
+.noUser {
+  text-align: center;
+  width: 100%;
+}
